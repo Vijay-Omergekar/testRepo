@@ -1,1 +1,1 @@
-only for testing purpose nad checking
+only for testing purpose and checking
