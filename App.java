@@ -15,7 +15,7 @@ public class App {
 
 	public String getDetails (){
 		// TODO Auto-generated method stub
-		return "Hello world";
+		return "Hello world one";
 
 	}
 }
